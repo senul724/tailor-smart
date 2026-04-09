@@ -1,3 +1,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = git@github.com:senul724/tailor-smart-firmware.git
+[submodule "web"]
+	path = web
+	url = git@github.com:senul724/tailor-smart-web.git
